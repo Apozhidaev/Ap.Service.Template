@@ -7,8 +7,8 @@
     <ProjectGuid>{8A3E4475-A740-4DB2-B0DD-D94FF94C9A50}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ap.Service.Template</RootNamespace>
-    <AssemblyName>Ap.Service.Template</AssemblyName>
+    <RootNamespace>Service.Template</RootNamespace>
+    <AssemblyName>Service.Template</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

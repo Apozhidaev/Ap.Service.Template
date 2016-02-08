@@ -1,4 +1,4 @@
-﻿namespace Ap.Service.Template
+﻿namespace Service.Template
 {
     public class App
     {

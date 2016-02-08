@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Ap.Service.Template
+namespace Service.Template
 {
     public class GlobalSection : ConfigurationSection
     {
